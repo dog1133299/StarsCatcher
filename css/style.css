@@ -48,9 +48,18 @@ button:hover{
  	text-align: center;
  	font-size: 50px;
 }
+#reload{display: none;}
 
-#reload{
-	display: none;
-}
-
+.msg{
+ 	width: 100%;
+ 	position: absolute;
+ 	bottom: 0;
+ 	color: white;
+ 	text-align: center;
+ 	font-family: 'Square721 BT','Montserrat', sans-serif;
+ 	font-size: 20px;
+ }
+ .msg>a{
+ 	text-decoration: none; 
+ }	
    
